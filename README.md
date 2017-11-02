@@ -1,3 +1,3 @@
 # test
 testing of system git
-<P> My first prog <p>
+<p> My first prog <p>
